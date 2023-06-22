@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/NB2IZSF' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/z1avZvJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap 
@@ -35,6 +35,8 @@ GIF created with LiceCap
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I didn't face any challenge.
 
 ## License
 
